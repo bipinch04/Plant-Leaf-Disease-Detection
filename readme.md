@@ -2,6 +2,8 @@
 
 This project is a **Plant Leaf Disease Detection System** that uses machine learning to identify diseases in plant leaves. The user interface for this application is built using **Streamlit**, making it interactive and user-friendly.
 
+Dataset Link: https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
+
 ## Features
 - Detect plant leaf diseases using machine learning models.
 - Simple and intuitive UI built with Streamlit.
