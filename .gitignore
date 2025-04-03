@@ -1,0 +1,10 @@
+# Ignore test, train, and valid folders
+test/
+train/
+valid/
+
+# Ignore training history file
+training_hist.json
+
+# Ignore trained model file
+trained_model.leras
