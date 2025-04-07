@@ -2,8 +2,6 @@
 
 This project is a **Plant Leaf Disease Detection System** that uses machine learning to identify diseases in plant leaves. The user interface for this application is built using **Streamlit**, making it interactive and user-friendly.
 
----
-
 ## Features
 - Detect plant leaf diseases using machine learning models.
 - Simple and intuitive UI built with Streamlit.
@@ -113,4 +111,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Feel free to reach out if you have any questions or issues!  
+Feel free to reach out if you have any questions or issues!
