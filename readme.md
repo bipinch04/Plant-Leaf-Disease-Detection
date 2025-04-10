@@ -1,11 +1,13 @@
 # Plant Leaf Disease Detection
 
-This project is a **Plant Leaf Disease Detection System** that uses machine learning to identify diseases in plant leaves. The user interface for this application is built using **Streamlit**, making it interactive and user-friendly.
+This project is a **Plant Leaf Disease Detection System** that leverages machine learning to identify diseases in plant leaves. The user interface is built using **Streamlit**, making it interactive and easy to use.
+
+---
 
 ## Features
 - Detect plant leaf diseases using machine learning models.
 - Simple and intuitive UI built with Streamlit.
-- Easy-to-follow instructions for beginners to set up and run the project.
+- Step-by-step instructions for setup and usage.
 
 ---
 
@@ -15,8 +17,7 @@ This project is a **Plant Leaf Disease Detection System** that uses machine lear
 3. [Usage](#usage)
 4. [Project Structure](#project-structure)
 5. [Model Training](#model-training)
-6. [Contributing](#contributing)
-7. [License](#license)
+6. [Team Members](#team-members)
 
 ---
 
@@ -94,21 +95,8 @@ If you want to train the model yourself:
 
 ---
 
-## Contributing
-Contributions are welcome! To contribute:
-1. Fork the repository.
-2. Create a new branch:
-    ```bash
-    git checkout -b feature-name
-    ```
-3. Commit your changes and push to your fork.
-4. Submit a pull request.
-
----
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to reach out if you have any questions or issues!
+## Team Members
+- **Bipin Kumar Chaudhary** (21053451)  
+- **Jay Prakash Giri** (21053460)  
+- **Mahi Kumari** (21053345)  
+- **Sudhir Jaiswal** (21053381)
